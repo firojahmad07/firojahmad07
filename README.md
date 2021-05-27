@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @firojahmad07
 - 👀 I’m interested in Akeneo and Symfony based software development.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 - you can directly mail me firojahmad07@gmail.com or call me 9540385984
 
